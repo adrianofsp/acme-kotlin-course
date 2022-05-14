@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: acmeKotlinCourse
+netty:
+  default:
+    allocator:
+      max-order: 3
